@@ -27,15 +27,21 @@ To run DigitalWire locally, follow these steps:
 
 1. Clone the repository:
 
-```git clone https://github.com/Yuv1810/DigitalWire.git```
+```bash
+git clone https://github.com/Yuv1810/DigitalWire.git
+```
 
 2. Navigate to the project directory:
 
-```cd DigitalWire```
+```bash
+cd DigitalWire
+```
 
 3. Install dependencies:
 
-```npm install```
+```bash
+npm install
+```
 
 ## Contributing
 
